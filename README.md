@@ -46,7 +46,7 @@
 
 ## :star: Description ##
 
-This project, Eye Movement is an exercise from week 8 of the MITxPro Certificate where eyes on the screen are meant to follow tho mouse as you move it throughout the screen.
+This project, Eye Movement is an exercise from week 8 of the MITxPro Certificate where eyes are meant to follow the mouse as you move it throughout the screen.
 
 ## :star: Roadmap ##
 
